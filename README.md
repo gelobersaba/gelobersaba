@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Angelo</h1>
-<h3 align="left">"Hi, I'm a driven front-end developer eager to create engaging websites. I'm already skilled in HTML, CSS and I'm passionate about expanding my knowledge.</h3>
+<h3 align="left">I'm a driven Front-End Developer eager to create engaging websites. I'm already skilled in HTML, CSS and I'm passionate about expanding my knowledge.</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
