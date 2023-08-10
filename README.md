@@ -2,9 +2,6 @@
 <h1 align="left">Hi 👋, I'm Angelo</h1>
 <h3 align="left">"Hi, I'm a driven front-end developer eager to create engaging websites. I'm already skilled in HTML, CSS and I'm passionate about expanding my knowledge.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CH9a7exGiFIAAAAd/cat-mute.gif
-">
-
 - 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **angelobersaba@gmail.com**
