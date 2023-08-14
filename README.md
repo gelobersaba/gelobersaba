@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Angelo</h1>
+<h1 align="left">Hi, I'm Angelo 👋</h1>
 
 - 🌱 I’m currently learning **Javascript**
 
