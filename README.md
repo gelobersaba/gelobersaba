@@ -19,4 +19,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=gelobersaba&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gelobersaba&show_icons=true&locale=en&layout=compact" alt="gelobersaba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gelobersaba&" alt="gelobersaba" /></p>
+
